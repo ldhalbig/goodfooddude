@@ -1,2 +1,2 @@
 # goodfooddude
-This is repo for goodfooddude website
+This is a new repo for goodfooddude proposed website
